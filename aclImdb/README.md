@@ -268,7 +268,7 @@ movie sentiment analysis/
 
 ### 2. Open Terminal in the Project Directory
 ```powershell
-cd "c:\Users\user\Desktop\SEM - 5 Subjects\NLP\project\movie sentiment analysis\aclImdb"
+cd "c:\Users\user\Desktop\NLP\project\movie sentiment analysis\aclImdb"
 ```
 
 ### 3. Create & Activate a Python Virtual Environment
